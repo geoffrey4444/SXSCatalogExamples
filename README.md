@@ -1,4 +1,4 @@
-# SXSCatalogAnalysis
+# SXSCatalogExamples
 Example scripts to interact with the SXS Catalog (https://black-holes.org/waveforms) and its data, hosted on Zenodo (https://zenodo.org). The data in the catalog is described in https://arxiv.org/abs/1904.04831.
 
 The repo contains the following notebooks:
