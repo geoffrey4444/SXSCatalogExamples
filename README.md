@@ -4,5 +4,6 @@ Example scripts to interact with the SXS Catalog (https://black-holes.org/wavefo
 The repo contains the following notebooks:
   * `sxs_catalog_download_example.ipynb` -- how to download and interact with catalog data
   * `sxs_metadata_example.ipynb` -- how to download and manipulate zenodo metadata
+  * `sxs_arxiv_metadata_example.ipynb` -- how to download and manipulate sxs metadata included in arXiv:1904.04831
 
 Please send questions to questions@black-holes.org.
